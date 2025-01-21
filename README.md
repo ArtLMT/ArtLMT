@@ -1,4 +1,9 @@
-## Hi there 👋
+## ✨About me✨
+Greeting! <br>
+It's such a beautiful day
+
+# 💻 Tech Stack:
+![HTML5](<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtLMT&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtLMT&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
