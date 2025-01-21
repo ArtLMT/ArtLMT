@@ -3,7 +3,7 @@ Greeting! <br>
 It's such a beautiful day
 
 # 💻 Tech Stack:
-![HTML5]("https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css)
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css)
 
 # Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtLMT&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
