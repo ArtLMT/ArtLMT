@@ -1,5 +1,5 @@
 ## ✨About me✨
-Greeting! <br>
+Greeting! <br> 
 It's such a beautiful day, isn't it? <br>
 My name is Lê Minh Thành, you can call me Art. <br>
 Currently studying at <a href="https://greenwich.edu.vn/en/english/"> University of Greenwich. </a>🌱.
