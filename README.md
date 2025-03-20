@@ -10,7 +10,7 @@ Currently studying at <a href="https://greenwich.edu.vn/en/english/"> University
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 # Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArtLMT)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArtLMT&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtLMT&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
