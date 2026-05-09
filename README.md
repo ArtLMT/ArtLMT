@@ -12,9 +12,7 @@ Currently studying at <a href="https://greenwich.edu.vn/en/english/"> University
 # Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArtLMT&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtLMT&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtLMT&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ArtLMT&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 <!--
 **ArtLMT/ArtLMT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
